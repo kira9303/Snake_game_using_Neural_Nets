@@ -2,7 +2,8 @@
 AI plays snake game!
 
 
-This is my first project where I've neural nets on a game!.
+Here, I've used neural nets on a game. The network is trained using a 'Feed forward neural net'. Process for data generaton is as follow:-
+
 The process to successfully generate the training data, Use it to train and then use this trained model for prediction is given below:-
 
 1)Make a directory with the name of your choice.
